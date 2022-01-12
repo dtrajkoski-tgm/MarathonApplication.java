@@ -155,6 +155,7 @@ public class TimingstationData {
 
 			public void setTiming(String timing){ this.timing += timing; }
 
+			int i = 0;
 		}
 	}
 	/**
